@@ -1,0 +1,26 @@
+
+Bug_id: 
+
+Header: 
+
+Project: 
+
+Build: 
+
+Component: 
+
+Severity (Blocker,Critical,Major,Minor,Trivial): 
+
+Priority(High,Medium,Low): 
+
+Environment: 
+
+Precondition: 
+
+STR: 
+
+Actual: 
+
+Expected: 
+
+Attachments: 

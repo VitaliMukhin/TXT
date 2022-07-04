@@ -1,0 +1,8 @@
+
+favorite_movie: Peaceful warrior 
+
+favorite_series: Silicon Valley 
+
+favorite_food: Peking duck 
+	
+favorite_season: Summer 

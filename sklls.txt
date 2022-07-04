@@ -1,0 +1,23 @@
+
+    01: Basic testing theory  
+	02: HTTP methods, HTTP requests, HTTP responses, status codes  
+	03: API testing through Postman  
+	04: Capturing logs, reading logs from an external server  
+	05: Sniffing http web traffic with Charles, Sniffing http web traffic with Fiddler  
+	06: DevTools web browser Google Chrome, DevTools web browser FireFox  
+	07: VPN  
+	08: Mobile testing  
+	09: iOS, Android feature, guidlines  
+	10: Building iOS apps in XCode  
+	11: Building Android apps on Android Studio  
+	12: Android device management  
+	13: Setting up proxies, VPN on iOS, VPN on Android  
+	14: Sniffing of mobile traffic by Charles, sniffing of mobile traffic by Fiddler  
+	15: Linux command line (terminal)  
+	16: Basic bash scripting, automation of routine tasks on the server  
+	17: Redisemote server access  
+	18: SQL basics  
+	19: Postgres database: installation, setup, use
+	20: Non-relational Redis database: installation, setup, use
+	21: Load testing in Jmeter
+	22: Scrum development methodology
